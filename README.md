@@ -1,2 +1,8 @@
-# kilonova
-Observe brilliance.
+# Kilonova
+
+_Observe brilliance._
+
+
+## License
+
+WTFPL

@@ -1,0 +1,33 @@
+{
+    "name": "kilonova",
+    "version": "0.1.0",
+    "description": "Observe Brilliance: A dev toolkit for NestJS, TypeORM, and Quasar.",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node index.ts",
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nestjs",
+        "typeorm",
+        "quasar",
+        "dev toolkit"
+    ],
+    "author": "Abdeldjalil Hebal",
+    "license": "WTFPL",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/djalilhebal/kilonova"
+    },
+    "dependencies": {
+        "@nestjs/common": "^10.0.0",
+        "@nestjs/core": "^10.0.0",
+        "@nestjs/platform-express": "^10.4.1",
+        "@types/node": "^22.5.1",
+        "reflect-metadata": "^0.1.13",
+        "rxjs": "^7.8.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
+}
